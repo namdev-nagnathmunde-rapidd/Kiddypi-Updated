@@ -2,10 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Kiddypi"
-             x:Class="Kiddypi.MainPage">
+             x:Class="Kiddypi.MainPage"
+             BackgroundImage="splash_screen">
 
-	<Label Text="Welcome to Xamarin Forms!" 
+	<!--<Label Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+           HorizontalOptions="Center" />-->
 
 </ContentPage>

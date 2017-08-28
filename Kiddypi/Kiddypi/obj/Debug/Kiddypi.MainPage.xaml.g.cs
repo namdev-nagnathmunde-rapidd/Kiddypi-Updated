@@ -11,8 +11,7 @@
 namespace Kiddypi {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\deva\\documents\\visual studio 2017\\Projects\\Kiddypi\\Kiddypi\\Kiddypi\\MainP" +
-        "age.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\VisualStudio\\Kiddypi_Updated\\Kiddypi\\Kiddypi\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -17,7 +17,7 @@ namespace Kiddypi.View
             InitializeComponent();
         }
 
-        //private  async void button_clicked(object sender, eventargs e)
+        //private async void button_clicked(object sender, eventargs e)
         //{
         //    var nextpage = new videoviewmodel();
         //    await this.navigation.pushasync(nextpage);

@@ -2,6 +2,10 @@ Kiddypi.Droid.MainActivity, Kiddypi.Android;md5e5f6d180823641fe15859e0e17057699.
 Kiddypi.Droid.MainActivity, Kiddypi.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5f6d180823641fe15859e0e17057699.MainActivity
 Kiddypi.Droid.MainActivity;md5e5f6d180823641fe15859e0e17057699.MainActivity
 kiddypi.droid.MainActivity;md5e5f6d180823641fe15859e0e17057699.MainActivity
+Kiddypi.Droid.SpalashActivity, Kiddypi.Android;md5e5f6d180823641fe15859e0e17057699.SpalashActivity
+Kiddypi.Droid.SpalashActivity, Kiddypi.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e5f6d180823641fe15859e0e17057699.SpalashActivity
+Kiddypi.Droid.SpalashActivity;md5e5f6d180823641fe15859e0e17057699.SpalashActivity
+kiddypi.droid.SpalashActivity;md5e5f6d180823641fe15859e0e17057699.SpalashActivity
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

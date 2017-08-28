@@ -1,10 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Kiddypi.View.LoginPage">
+             x:Class="Kiddypi.View.LoginPage"
+             BackgroundImage="login_page">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin Forms!" />
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Button Clicked="Button_Clicked" HorizontalOptions="Center" VerticalOptions="Center" Text="LogIn" BackgroundColor="White"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

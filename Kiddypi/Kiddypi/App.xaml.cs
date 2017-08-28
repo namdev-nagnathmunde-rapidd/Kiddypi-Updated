@@ -19,8 +19,7 @@ namespace Kiddypi
 
         protected override void OnStart()
         {
-
-            MainPage = new StudentViewPage();
+            //MainPage = new LoginPage();
 
             // Handle when your app starts
         }
