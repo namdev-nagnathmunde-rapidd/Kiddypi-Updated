@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>8/28/2017 3:37:44 PM</xs:documentation>
+    <xs:documentation>8/29/2017 11:22:58 AM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -1125,6 +1125,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -1143,6 +1144,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -1622,6 +1624,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -1640,6 +1643,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -2019,6 +2023,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -2037,6 +2042,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -2416,6 +2422,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -2434,6 +2441,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -4468,6 +4476,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -4486,6 +4495,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -4865,6 +4875,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -4883,6 +4894,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -5339,6 +5351,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -5357,6 +5370,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -5952,6 +5966,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -5970,6 +5985,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -6349,6 +6365,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -6367,6 +6384,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -7597,6 +7615,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -7615,6 +7634,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -7994,6 +8014,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -8012,6 +8033,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -8454,6 +8476,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -8472,6 +8495,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -8851,6 +8875,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -8869,6 +8894,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -9344,6 +9370,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -9362,6 +9389,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -9950,6 +9978,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -9968,6 +9997,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
             <xs:enumeration value="@android:color/black" />
@@ -10425,6 +10455,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -10443,6 +10474,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -10997,6 +11029,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -11015,6 +11048,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -11569,6 +11603,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -11587,6 +11622,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -11966,6 +12002,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -11984,6 +12021,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -12440,6 +12478,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -12458,6 +12497,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -13274,6 +13314,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -13292,6 +13333,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -13748,6 +13790,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -13766,6 +13809,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -14145,6 +14189,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -14163,6 +14208,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -14698,6 +14744,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -14716,6 +14763,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -15395,6 +15443,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -15413,6 +15462,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -15792,6 +15842,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -15810,6 +15861,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -16378,6 +16430,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -16396,6 +16449,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -16950,6 +17004,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -16968,6 +17023,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -17424,6 +17480,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -17442,6 +17499,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -17996,6 +18054,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -18014,6 +18073,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -18705,6 +18765,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -18723,6 +18784,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -19102,6 +19164,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -19120,6 +19183,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -21283,6 +21347,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -21301,6 +21366,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -22851,6 +22917,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -22869,6 +22936,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -23423,6 +23491,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -23441,6 +23510,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -23820,6 +23890,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -23838,6 +23909,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />
@@ -24265,6 +24337,7 @@
             <xs:enumeration value="@drawable/ic_tv_dark" />
             <xs:enumeration value="@drawable/ic_tv_light" />
             <xs:enumeration value="@drawable/icon" />
+            <xs:enumeration value="@drawable/image_logo" />
             <xs:enumeration value="@drawable/login_page" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_dark" />
             <xs:enumeration value="@drawable/mr_dialog_material_background_light" />
@@ -24283,6 +24356,7 @@
             <xs:enumeration value="@drawable/mr_ic_play_light" />
             <xs:enumeration value="@drawable/notification_template_icon_bg" />
             <xs:enumeration value="@drawable/splash_screen" />
+            <xs:enumeration value="@drawable/videos_logo" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
             <xs:enumeration value="@android:drawable/arrow_down_float" />

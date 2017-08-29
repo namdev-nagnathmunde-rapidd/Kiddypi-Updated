@@ -157,3 +157,5 @@ H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi.Android\obj\Debug\res\drawable\l
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi.Android\obj\Debug\res\drawable-hdpi\login_page.jpg
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi.Android\obj\Debug\res\drawable-xhdpi\login_page.jpg
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi.Android\obj\Debug\res\drawable-xxhdpi\login_page.jpg
+H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi.Android\obj\Debug\res\drawable\image_logo.png
+H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi.Android\obj\Debug\res\drawable\videos_logo.png

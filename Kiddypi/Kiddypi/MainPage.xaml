@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Kiddypi"
              x:Class="Kiddypi.MainPage"
-             BackgroundImage="splash_screen">
+             BackgroundImage="splash_screen"
+             NavigationPage.HasNavigationBar="false">
 
 	<!--<Label Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 

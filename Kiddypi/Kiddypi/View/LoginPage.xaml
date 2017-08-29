@@ -2,10 +2,11 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Kiddypi.View.LoginPage"
-             BackgroundImage="login_page">
+             BackgroundImage="login_page"
+             NavigationPage.HasNavigationBar="false">
     <ContentPage.Content>
-        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
-            <Button Clicked="Button_Clicked" HorizontalOptions="Center" VerticalOptions="Center" Text="LogIn" BackgroundColor="White"/>
+        <StackLayout Padding="25, 50" HorizontalOptions="Center" VerticalOptions="EndAndExpand">
+            <Button Clicked="Button_Clicked" HorizontalOptions="FillAndExpand" WidthRequest="300" VerticalOptions="FillAndExpand" Text="LogIn" BackgroundColor="White"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
