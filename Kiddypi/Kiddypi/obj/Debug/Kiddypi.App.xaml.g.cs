@@ -11,8 +11,7 @@
 namespace Kiddypi {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("c:\\users\\deva\\documents\\visual studio 2017\\Projects\\Kiddypi\\Kiddypi\\Kiddypi\\App.x" +
-        "aml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("H:\\VisualStudio\\Kiddypi_Updated\\Kiddypi\\Kiddypi\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

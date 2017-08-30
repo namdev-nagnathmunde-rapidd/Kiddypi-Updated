@@ -33,11 +33,11 @@ namespace Kiddypi.View
             {
                 MenuItems = new ObservableCollection<MenuPageMenuItem>(new[]
                 {
-                    new MenuPageMenuItem { Id = 0, Icon = "videos_logo", Title = "Images" },
-                    new MenuPageMenuItem { Id = 1, Icon = "videos_logo", Title = "Student Videos" },
-                    new MenuPageMenuItem { Id = 2, Icon = "videos_logo", Title = "Project Videos" },
-                    new MenuPageMenuItem { Id = 3, Icon = "videos_logo", Title = "About Us" },
-                    new MenuPageMenuItem { Id = 4, Icon = "videos_logo", Title = "Logout" },
+                    new MenuPageMenuItem { Id = 0, Icon = "images", Title = "Images" },
+                    new MenuPageMenuItem { Id = 1, Icon = "student_videos", Title = "Student Videos" },
+                    new MenuPageMenuItem { Id = 2, Icon = "project_videos", Title = "Project Videos" },
+                    new MenuPageMenuItem { Id = 3, Icon = "about_us", Title = "About" },
+                    new MenuPageMenuItem { Id = 4, Icon = "logout", Title = "Logout" },
                 });
             }
 

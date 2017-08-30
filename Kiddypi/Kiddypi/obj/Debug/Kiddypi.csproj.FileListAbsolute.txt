@@ -52,9 +52,9 @@ H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.ImageView
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.StudentViewPage.xaml.g.cs
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.VideoViewModel.xaml.g.cs
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.SplashScreen.xaml.g.cs
-H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.dll
-H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.pdb
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.LoginPage.xaml.g.cs
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.MenuPage.xaml.g.cs
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.MenuPageMaster.xaml.g.cs
 H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.View.MenuPageDetail.xaml.g.cs
+H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.dll
+H:\VisualStudio\Kiddypi_Updated\Kiddypi\Kiddypi\obj\Debug\Kiddypi.pdb
